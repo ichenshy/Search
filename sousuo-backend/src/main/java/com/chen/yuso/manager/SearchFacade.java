@@ -11,7 +11,7 @@ import com.chen.yuso.model.entity.Picture;
 import com.chen.yuso.model.vo.PostVO;
 import com.chen.yuso.model.vo.SearchVO;
 import com.chen.yuso.model.vo.UserVO;
-import com.yupi.yuso.datasource.*;
+import com.chen.yuso.datasource.*;
 import com.chen.yuso.model.dto.search.SearchRequest;
 import com.chen.yuso.model.enums.SearchTypeEnum;
 import lombok.extern.slf4j.Slf4j;
